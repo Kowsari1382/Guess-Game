@@ -1,0 +1,8 @@
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\bin\Debug\GuessGame.exe.config
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\bin\Debug\GuessGame.exe
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\bin\Debug\GuessGame.pdb
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.AssemblyReference.cache
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.SuggestedBindingRedirects.cache
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\obj\Debug\GuessGame.csproj.CoreCompileInputs.cache
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\obj\Debug\GuessGame.exe
+C:\Users\Kowsari\source\repos\GuessGame\GuessGame\obj\Debug\GuessGame.pdb
